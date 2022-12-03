@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>HP</UserName>
+  <FriendlyName>HP</FriendlyName>
+  <PCName>DESKTOP-092IT4U</PCName>
+  <UserId>af448990-4150-42d2-8061-3cf52a58d9c8</UserId>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\HP\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*e25b5812-be88-4bd9-94b0-29233477b6c3</LibraryName>
+    <Folder>C:\Users\HP\Pictures\Saved Pictures</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\HP\Videos</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*2b20df75-1eda-4039-8097-38798227d5b7</LibraryName>
+    <Folder>C:\Users\HP\Pictures\Camera Roll</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\HP\Documents</Folder>
+    <Folder>C:\Users\HP\OneDrive\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\HP\Pictures</Folder>
+    <Folder>C:\Users\HP\OneDrive\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\HP\.btfs</UserFolder>
+  <UserFolder>C:\Users\HP\.vscode</UserFolder>
+  <UserFolder>C:\Users\HP\Searches</UserFolder>
+  <UserFolder>C:\Users\HP\3D Objects</UserFolder>
+  <UserFolder>C:\Users\HP\Desktop</UserFolder>
+  <UserFolder>C:\Users\HP\OneDrive</UserFolder>
+  <UserFolder>C:\Users\HP\Contacts</UserFolder>
+  <UserFolder>C:\Users\HP\Pictures</UserFolder>
+  <UserFolder>C:\Users\HP\Favorites</UserFolder>
+  <UserFolder>C:\Users\HP\Videos</UserFolder>
+  <UserFolder>C:\Users\HP\Music</UserFolder>
+  <UserFolder>C:\Users\HP\Downloads</UserFolder>
+  <UserFolder>C:\Users\HP\Documents</UserFolder>
+  <UserFolder>C:\Users\HP\Links</UserFolder>
+  <UserFolder>C:\Users\HP\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\HP\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\HP\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\HP\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>1272913571</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>954685178</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>DISABLED</DPStatus>
+  <Target>
+    <TargetName>New Volume (D:)</TargetName>
+    <TargetUrl>D:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{b2d96bf0-0000-0000-0000-100000000000}\</TargetVolumePath>
+    <TargetDriveType>FIXED</TargetDriveType>
+    <TargetConfigPath1>HP\DESKTOP-092IT4U\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>HP\DESKTOP-092IT4U\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>HP\DESKTOP-092IT4U\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>HP\DESKTOP-092IT4U\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>HP\DESKTOP-092IT4U\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>

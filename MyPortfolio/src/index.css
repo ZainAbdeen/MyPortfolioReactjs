@@ -8,11 +8,11 @@
   text-decoration: none;
 }
 :root {
-  --red: #cd3128;
-  --red-dark: #ab261f;
-  --red-text: #ef403f;
+  --red: #FFB600;
+  --red-dark: #FFB600;
+  --red-text: #FFB600;
   --dark-light: #181818;
-  --dark: #111;
+  --dark: #040C16;
   --light: #ffffff;
 }
 html {
@@ -175,6 +175,10 @@ header .mobile-links {
   font-size: 40px;
   color: var(--red-text);
 }
+
+.service:hover{
+  color:#1F2833;
+}
 .service h3 {
   font-size: 24px;
   line-height: 34px;
@@ -194,6 +198,7 @@ header .mobile-links {
   letter-spacing: 1px;
 }
 
+
 .services .service.active,
 .services .service:hover {
   background: var(--red);
@@ -206,6 +211,10 @@ header .mobile-links {
 }
 .service .btn:hover {
   transform: translateX(10px);
+}
+
+.service .btn:hover{
+  color:#1F2833;
 }
 
 .experiences {
